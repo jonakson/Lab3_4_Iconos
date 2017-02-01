@@ -1,28 +1,24 @@
 # Lab3 - Inclusión de un menú en la Aplicación #
 
 ## Descripción del problema ##
-Escoge alguna de las app que hayas realizado y dótala de un Menú que incluya las opciones Preferencias y Acerca de...
+Cambia el icono por defecto de tu aplicación e instala alguna de las aplicaciones que hayas desarrollado en un dispositivo real.
 
-**Fuente:** [UPV - Curso Android - Añadiendo un menú a una actividad](http://www.androidcurso.com/index.php/tutoriales-android-fundamentos/34-unidad-3-actividades-e-intenciones/124-anadiendo-un-menu-a-una-actividad)
+**Fuente:** [codigoandroid.es](http://www.codigoandroid.es/curso-programacion-android/como-cambiar-el-icono-de-aplicacion-android/#asistente-android-studio)
 
-**Fuente:** [UPV - Curso Android - Añadiendo preferencias de usuario](http://www.androidcurso.com/index.php/tutoriales-android-fundamentos/34-unidad-3-actividades-e-intenciones/126-anadiendo-preferencias-de-usuario)
+**Fuente:** [AndroidYA](http://www.tutorialesprogramacionya.com/javaya/androidya/androidstudioya/detalleconcepto.php?codigo=17&inicio=0)
 
-Para esta entrega modificaremos la aplicación [Lab3 - Comunicacion entre Activities](https://github.com/jonakson/Lab3_2_Comunicacion_Activities). Y le añadiremos el menú.
+**Descarga de la App:** [Dropbox](https://dl.dropboxusercontent.com/u/52992573/PGL/Lab3/jcd.apk)
 
 ## Capturas de la aplicación ##
 
-Vista inicial de la aplicación donde podemos ver el menú en la parte superior derecha.
+Abrimos el apk e instalamos la aplicación en nuestro dispositivo.
 
-<img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab3/Lab3_2_Menu_001.png" width="300">
+<img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab3/Lab3_4_Iconos_001.png" width="300">
 
-Al pulsar en la opción "Acerca de..." del menú nos conduce a una nueva vista con información sobre la aplicación.
+La aplicación ha sido instalada.
 
-<img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab3/Lab3_2_Menu_002.png" width="300">
+<img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab3/Lab3_4_Iconos_002.png" width="300">
 
-Al pulsar sobre la opción "Preferencias" del menú nos llevará a la vista con las diversas configuraciones.
+Ya la tenemos disponible para su uso.
 
-<img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab3/Lab3_2_Menu_003.png" width="300">
-
-
-
-
+<img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab3/Lab3_4_Iconos_003.png" width="300">
