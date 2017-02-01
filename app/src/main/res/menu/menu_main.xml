@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Acerca de..."
+        android:icon="@android:drawable/ic_dialog_info"
+        android:id="@+id/acercaDe" />
+    <item android:title="Preferencias"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:id="@+id/preferencias" />
+</menu>

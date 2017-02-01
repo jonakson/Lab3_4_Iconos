@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Sonido">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:title="@string/musica"
+            android:key="switch_musica" />
+        <SwitchPreference
+            android:defaultValue="true"
+            android:title="@string/sonidoBotones"
+            android:key="switch_preference_1" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Interfaz gráfica">
+
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/interfaz"
+            android:entryValues="@array/interfazValores"
+            android:key="list_interfaz"
+            android:title="@string/interfaz" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -15,7 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Condiciones"></activity>
+        <activity android:name=".Condiciones" />
+        <activity android:name=".AcercaDe" />
+        <activity android:name=".Preferencias"></activity>
     </application>
 
 </manifest>

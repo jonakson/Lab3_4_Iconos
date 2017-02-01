@@ -1,7 +1,14 @@
 <resources>
-    <string name="app_name">Lab3_2_Menu</string>
+    <string name="app_name">Lab3 - Menú</string>
     <string name="nombre">Inserte su nombre</string>
     <string name="verificar">Verificar</string>
     <string name="aceptar">Aceptar</string>
     <string name="rechazar">Rechazar</string>
+    <string name="autor">Jonatan Calzado Díaz</string>
+    <string name="modulo">Programación Multimedia y Dispositivos Móviles</string>
+    <string name="ciclo">Desarrollo de Aplicaciones Multiplataforma</string>
+    <string name="curso">2016/2017</string>
+    <string name="musica">Música de fondo</string>
+    <string name="sonidoBotones">Sonido al pulsar botones</string>
+    <string name="interfaz">Color de la interfaz</string>
 </resources>

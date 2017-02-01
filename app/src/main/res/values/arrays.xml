@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="interfaz">
+        <item>Claro</item>
+        <item>Oscuro</item>
+        <item>Alto contraste</item>
+    </string-array>
+    <string-array name="interfazValores">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
